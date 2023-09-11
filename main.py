@@ -24,4 +24,5 @@ class InstagramApp(MDApp):
 
 
 if __name__ == "__main__":
+    ## Run 
     InstagramApp().run()
